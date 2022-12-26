@@ -4,4 +4,4 @@ russian-travel
 
 Планы по улучшению проекта включают в себя добавление различных iframe виджитов от Яндекса, позволяющих узнать погоду и расписание поездов не выходя с проекта.
 
-git@github.com:iwadim72/russian-travel.git
+https://iwadim72.github.io/russian-travel/
